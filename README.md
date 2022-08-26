@@ -3,6 +3,7 @@ Estou estudando estas linguagens e tecnologias:
 - Linguagem C
 - Python
 - Git e GitHub
+- HTML, CSS e Javascript
 <div align="center">
   <a href="https://github.com/matEvangelista">
   <div align-items="center" justify-content="center">
