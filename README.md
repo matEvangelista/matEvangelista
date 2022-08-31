@@ -6,9 +6,7 @@ Estou estudando estas linguagens e tecnologias:
 - HTML, CSS e Javascript
 <div align="center">
   <a href="https://github.com/matEvangelista">
-  <div align-items="center" justify-content="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=matEvangelista&theme=radical&show_icons=true">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matEvangelista&t&theme=radical&layout=compact">
-  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matEvangelista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matEvangelista&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block">
