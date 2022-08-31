@@ -11,4 +11,4 @@ Estou estudando estas linguagens e tecnologias:
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matEvangelista&layout=compact&theme=tokyonight">
   </div>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
